@@ -1,0 +1,10 @@
+h1 {font-size:26px;}
+
+div {font-size: 12px;}
+
+img.orig{
+	max-width: 500px;
+	margin-left: 15%;
+	height: auto;
+	max-height: 500px;
+}
